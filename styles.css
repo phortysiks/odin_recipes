@@ -1,0 +1,44 @@
+* {
+    font-family: Helvetica, sans-serif;
+    color: rgb(220, 219, 223)
+}
+
+html {
+    background-color: rgb(26, 27, 43);
+}
+
+body {
+    max-width: 700px;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main-title {
+    text-align: center;
+    margin-bottom: 4rem;
+    padding: 1.5rem;
+}
+
+.recipe-list {
+    padding: 2rem;
+}
+
+.list-item {
+    line-height: 2;
+    list-style: none;
+}
+
+.ingredient {
+    line-height: 2;
+}
+
+.method-title {
+    margin-top: 2rem;
+}
+
+.method-item {
+    margin-bottom: 1rem;
+}
